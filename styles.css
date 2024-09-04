@@ -1,6 +1,7 @@
 body {
     color:rgb(252 230 157);
     background:rgb(43 34 52);
+    font-family: "Comic Neue", cursive;
 }
 
 
@@ -15,4 +16,15 @@ section{
     background:rgb(39 34 39);
     padding-bottom: 60px;
     padding-top: 70px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin-right: 5%;
+}
+h1 {
+    font-size: 40px;
+}
+p {
+    font-size: 25px;
 }
